@@ -1,4 +1,4 @@
-# Modern Portfolio
+# GitHub Portfolio
 
 A modern repsonsive portfolio built with HTML5, CSS3, SASS, and Javascript (vanilla).  The website is deployed on GitHub Pages
 
@@ -12,4 +12,4 @@ A modern repsonsive portfolio built with HTML5, CSS3, SASS, and Javascript (vani
   - About Me
   - My Work
   - How To Reach Me
-- My Work pages displays projects
+- My Work pages displays my projects
