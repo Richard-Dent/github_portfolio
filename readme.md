@@ -1,6 +1,6 @@
 # GitHub Portfolio
 
-A modern repsonsive portfolio built with HTML5, CSS3, SASS, and Javascript (vanilla).  The website is deployed on GitHub Pages
+A modern responsive portfolio built with HTML5, CSS3, SASS, and Javascript (vanilla).  The website is deployed on GitHub Pages
 
 ![modern portfolio screenshot](dist/img/GITHUB_PORTFOLIO.png)
 
